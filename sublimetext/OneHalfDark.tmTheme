@@ -28,7 +28,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>OneHalfLight</string>
+	<string>OneHalfDark</string>
 	<key>semanticClass</key>
 	<string>theme.dark.one_half_dark</string>
 	<key>uuid</key>
